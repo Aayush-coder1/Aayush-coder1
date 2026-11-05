@@ -2,12 +2,12 @@
 
 Computer Engineering student at **VESIT, Mumbai** ('28). I like turning large language model ideas into practical tools people can actually run—from full-stack AI agent sandboxes to developer safety tooling.
 
-Exploring, building,learning, and sharing my journey in **Tech & AI** 😎
+Exploring, building, learning, and sharing my journey in **Tech & AI** 😎
 
 ---
 
-### 🚀 Featured Build(latest project)
-- **[ai-bots ()](ai-bots-six.vercel.app)** — AI agent platform where agents run inside isolated desktop sandboxes (E2B / Daytona), execute browser & code tasks via Trigger.dev background workers, and collaborate in real time.
+### 🚀 Featured Build (Latest Project)
+- **[ai-bots](https://ai-bots-six.vercel.app/)** — AI agent platform where agents run inside isolated desktop sandboxes (E2B / Daytona), execute browser & code tasks via Trigger.dev background workers, and collaborate in real time.
 
 ---
 
