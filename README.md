@@ -1,13 +1,13 @@
-# Hi, I'm Aayush Wanve 👋 🕷️
+# Hi, I'm Aayush Wanve 👋 
 
-Computer Engineering student at **VESIT, Mumbai** (Class of '28). I like turning large language model ideas into practical tools people can actually run—from full-stack AI agent sandboxes to developer safety tooling.
+Computer Engineering student at **VESIT, Mumbai** ('28). I like turning large language model ideas into practical tools people can actually run—from full-stack AI agent sandboxes to developer safety tooling.
 
 Exploring, building,learning, and sharing my journey in **Tech & AI** 😎
 
 ---
 
-### 🚀 Featured Build
-- **[ai-bots (SaaS Feature Factory)](https://aayushwanve-dev.vercel.app/)** — AI agent platform where agents run inside isolated desktop sandboxes (E2B / Daytona), execute browser & code tasks via Trigger.dev background workers, and collaborate in real time.
+### 🚀 Featured Build(latest project)
+- **[ai-bots ()](ai-bots-six.vercel.app)** — AI agent platform where agents run inside isolated desktop sandboxes (E2B / Daytona), execute browser & code tasks via Trigger.dev background workers, and collaborate in real time.
 
 ---
 
